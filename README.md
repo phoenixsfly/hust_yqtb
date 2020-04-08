@@ -11,6 +11,6 @@ docker run -itd \\ \
 -e PASSWD=you_password \\ \
 -e EMAIL=xxxx@xxx.com \\ \
 -e EMAILPWD=your_email_password \\ \
--e FM=you_family_name \\ \
+-e FAM=you_family_name \\ \
 --restart=always \\ \
 phoenixfly/hust_yqtb

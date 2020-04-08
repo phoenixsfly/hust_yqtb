@@ -139,7 +139,6 @@ def execit():
        time.sleep(21*60*60)
        
 if __name__ == "__main__":
-    execit()
     while True:
        now_time = datetime.datetime.now()
        hour = datetime.datetime.strftime(now_time,'%H')

@@ -12,7 +12,7 @@ import os
 
 uid = os.environ['UID']#m_uid
 password =os.environ['PASSWD'] #m_password
-qq_pwd= os.environ['QQPWD'] #m_qq_pwd
+qq_pwd= os.environ['EMAILPWD'] #m_qq_pwd
 sender_email = os.environ['EMAIL']#m_sender_email  
 receiver_email =os.environ['EMAIL'] #m_receiver_email  
 family_name =os.environ['FAM']
